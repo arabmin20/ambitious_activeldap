@@ -1,1 +1,1 @@
-Add Roboflow 100 Dataset Docs Page (#8065)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
